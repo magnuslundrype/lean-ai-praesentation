@@ -1,0 +1,70 @@
+k;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.35rem 0.8rem;
+    border-radius: 999px;
+    background: rgba(255,255,255,0.08);
+    color: rgba(255,255,255,0.85);
+    border: 1px solid rgba(255,255,255,0.12);
+  }
+
+  /* ── Cards & grids ── */
+  .grid-2 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.25rem;
+    margin-top: 1.75rem;
+  }
+
+  .grid-3 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.1rem;
+    margin-top: 1.75rem;
+  }
+
+  .grid-5 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    margin-top: 1.75rem;
+  }
+
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.35rem 1.4rem;
+    box-shadow: var(--shadow);
+  }
+
+  .card.accent-border { border-left: 4px solid var(--accent); }
+
+  .card .num {
+    font-size: 1.85rem;
+    font-weight: 800;
+    color: var(--accent);
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+  }
+
+  .card .num-label {
+    font-size: 0.8rem;
+    color: var(--slate-light);
+    margin-top: 0.25rem;
+  }
+
+  .stat-source {
+    font-size: 0.72rem;
+    color: var(--slate-light);
+    margin-top: 0.65rem;
+  }
+
+  /* ── Layer cards (Koncept) ── */
+  .layer {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius)
