@@ -1,0 +1,53 @@
+1.5cm 1.2cm;
+      justify-content: flex-start;
+    }
+    .slide:last-of-type { page-break-after: auto; }
+    #forside {
+      background: #0f172a !important;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+      color: white !important;
+    }
+    #forside h1 { color: white !important; }
+    #kilder {
+      background: #0f172a !important;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .card, .layer, .case-card, .phase-body, .concl-points li {
+      box-shadow: none;
+      border: 1px solid #cbd5e1;
+      break-inside: avoid;
+    }
+    .bonus-card {
+      background: #1e293b !important;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .site-footer { page-break-before: avoid; }
+    a { color: #0f766e; }
+    .slide-foot { display: none; }
+    .phases::before { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="nav" aria-label="Sektionsnavigation">
+  <div class="nav-inner">
+    <a class="nav-brand" href="#forside">Lean<span>AI</span></a>
+    <ul class="nav-links">
+      <li><a href="#forside">Forside</a></li>
+      <li><a href="#problemstilling">Problemstilling</a></li>
+      <li><a href="#koncept">Koncept</a></li>
+      <li><a href="#cases">Cases</a></li>
+      <li><a href="#roadmap">Roadmap</a></li>
+      <li><a href="#konklusion">Konklusion</a></li>
+      <li><a href="#kilder">Kilder</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- 1. FORSIDE -->
+<section class="slide"

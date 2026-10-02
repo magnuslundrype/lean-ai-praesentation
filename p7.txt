@@ -1,0 +1,62 @@
+-legend span::before {
+    content: "";
+    display: inline-block;
+    width: 0.65rem;
+    height: 0.65rem;
+    border-radius: 2px;
+    margin-right: 0.35rem;
+    vertical-align: middle;
+  }
+
+  .invest-legend .l70::before { background: var(--accent-dark); }
+  .invest-legend .l20::before { background: var(--slate-mid); }
+  .invest-legend .l10::before { background: var(--slate-light); }
+
+  /* ── Konklusion ── */
+  .concl-points {
+    list-style: none;
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+  }
+
+  .concl-points li {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--accent);
+    border-radius: var(--radius);
+    padding: 1rem 1.25rem;
+    box-shadow: var(--shadow);
+    font-size: 0.95rem;
+  }
+
+  /* ── Kilder ── */
+  #kilder { background: var(--navy); color: rgba(255,255,255,0.8); border-bottom: none; }
+
+  #kilder h2 { color: var(--white); }
+  #kilder .slide-label { color: #5eead4; }
+  #kilder .lead { color: rgba(255,255,255,0.6); }
+
+  .source-list {
+    list-style: none;
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .source-list li {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 8px;
+    padding: 0.85rem 1.1rem;
+    font-size: 0.85rem;
+    color: rgba(255,255,255,0.7);
+  }
+
+  .source-list a {
+    color: #5eead4;
+    word-break: break-all;
+    display: block;
+ 

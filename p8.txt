@@ -1,0 +1,59 @@
+   margin-top: 0.25rem;
+    font-size: 0.78rem;
+  }
+
+  .source-list .src-date {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 650;
+    color: #99f6e4;
+    margin-right: 0.5rem;
+  }
+
+  /* ── Footer ── */
+  .site-footer {
+    background: #020617;
+    color: rgba(255,255,255,0.55);
+    text-align: center;
+    padding: 1.25rem 1.5rem;
+    font-size: 0.8rem;
+    line-height: 1.5;
+  }
+
+  .site-footer strong { color: rgba(255,255,255,0.85); }
+
+  /* ── Section footer mark ── */
+  .slide-foot {
+    position: absolute;
+    bottom: 1.25rem;
+    left: 0; right: 0;
+    text-align: center;
+    font-size: 0.7rem;
+    color: var(--slate-light);
+    pointer-events: none;
+  }
+
+  #forside .slide-foot,
+  #kilder .slide-foot { color: rgba(255,255,255,0.35); }
+
+  /* ── Mobile ── */
+  @media (max-width: 700px) {
+    .slide { padding: 4.5rem 1.15rem 3.5rem; min-height: auto; }
+    .nav-links { display: none; }
+    .phases::before { left: 0.9rem; }
+    .phase-dot { width: 1.9rem; height: 1.9rem; font-size: 0.7rem; }
+    .invest-bar { flex-direction: column; height: auto; }
+    .inv-70, .inv-20, .inv-10 { width: 100% !important; padding: 0.65rem; }
+  }
+
+  /* ── Print / PDF ── */
+  @media print {
+    html { font-size: 12pt; }
+    body { background: white; color: black; }
+    .nav { display: none !important; }
+    .slide {
+      min-height: auto;
+      page-break-after: always;
+      page-break-inside: avoid;
+      border-bottom: none;
+      padding: 
