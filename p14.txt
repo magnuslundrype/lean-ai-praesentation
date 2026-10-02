@@ -1,0 +1,42 @@
+vngivne, daterede, linkede</h2>
+    <p class="lead">
+      Kun offentlige kilder. Måltal er markeret eksplicit. Bonus-kort fra WEF nedenfor.
+    </p>
+
+    <div class="grid-2" style="margin-top:1.5rem;">
+
+      <!-- Apollo -->
+      <article class="case-card">
+        <header>
+          <h3>Apollo Tyres</h3>
+          <span class="case-date">16. jun 2025</span>
+        </header>
+        <p style="font-size:0.9rem;">
+          <strong>Agentic Manufacturing Reasoner</strong> (Amazon Bedrock Agents) —
+          multi-agent RCA på maskinindsigt. Kaizen Agents-laget i praksis.
+        </p>
+        <div class="case-metrics">
+          <div class="metric">
+            <div class="v">7 t → &lt;10 min</div>
+            <div class="l">RCA-tid</div>
+          </div>
+          <div class="metric">
+            <div class="v">~88%</div>
+            <div class="l">mindre indsats</div>
+          </div>
+          <div class="metric projected">
+            <div class="v">~INR 15M/år</div>
+            <div class="l">PCR, 3 anlæg</div>
+          </div>
+        </div>
+        <p class="case-link">
+          <a href="https://aws.amazon.com/blogs/machine-learning/how-apollo-tyres-is-unlocking-machine-insights-using-agentic-ai-powered-manufacturing-reasoner/" target="_blank" rel="noopener">
+            aws.amazon.com — Apollo Manufacturing Reasoner
+          </a>
+        </p>
+      </article>
+
+      <!-- Toyota -->
+      <article class="case-card">
+        <header>
+          <h3>Toyota</h3>

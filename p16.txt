@@ -1,0 +1,37 @@
+  Personalet reduceret fra 18 til 2; cyklustid fra &gt;2 dage til &lt;1 dag.
+        </p>
+        <div class="case-metrics">
+          <div class="metric">
+            <div class="v">~−80%</div>
+            <div class="l">routing-arbejde</div>
+          </div>
+          <div class="metric">
+            <div class="v">18 → 2</div>
+            <div class="l">medarbejdere</div>
+          </div>
+          <div class="metric">
+            <div class="v">&gt;2 d → &lt;1 d</div>
+            <div class="l">cyklustid</div>
+          </div>
+          <div class="metric">
+            <div class="v">~95%</div>
+            <div class="l">nøjagtighed</div>
+          </div>
+        </div>
+        <p class="case-link">
+          <a href="https://camo.hku.hk/wp-content/uploads/2026/03/2026-03-30_CIMC_Edited-1.pdf" target="_blank" rel="noopener">
+            camo.hku.hk — CIMC Tianda case (PDF, mar 2026)
+          </a>
+        </p>
+      </article>
+    </div>
+
+    <!-- Bonus -->
+    <h3 style="margin-top:1.75rem; font-size:1rem; color:var(--slate-light); letter-spacing:0.04em; text-transform:uppercase;">Bonus — WEF Lighthouse (8. okt 2024)</h3>
+    <div class="bonus-row">
+      <div class="bonus-card">
+        <header style="display:flex;gap:0.5rem;align-items:baseline;flex-wrap:wrap;margin-bottom:0.5rem;">
+          <h3>Siemens Erlangen</h3>
+          <span class="case-date">8. okt 2024</span>
+        </header>
+        <p>Green Lean Digital: <strong>+69%</strong> arbejdsproduktivit

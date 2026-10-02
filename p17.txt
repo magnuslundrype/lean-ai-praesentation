@@ -1,0 +1,24 @@
+et, <strong>−40%</strong> time-to-market, <strong>−42%</strong> energi.</p>
+        <p style="margin-top:0.5rem;font-size:0.8rem;">
+          <a href="https://www.weforum.org/press/2024/10/world-economic-forum-recognizes-leading-companies-transforming-global-manufacturing-with-ai-innovation-bcdb574963/" target="_blank" rel="noopener">WEF pressemeddelelse</a>
+        </p>
+      </div>
+      <div class="bonus-card">
+        <header style="display:flex;gap:0.5rem;align-items:baseline;flex-wrap:wrap;margin-bottom:0.5rem;">
+          <h3>GE HealthCare Beijing</h3>
+          <span class="case-date">8. okt 2024</span>
+        </header>
+        <p>Samme WEF-anerkendelse: cyklustid <strong>−66%</strong>, scrap <strong>−66%</strong>, klager <strong>−73%</strong>.</p>
+        <p style="margin-top:0.5rem;font-size:0.8rem;">
+          <a href="https://www.weforum.org/press/2024/10/world-economic-forum-recognizes-leading-companies-transforming-global-manufacturing-with-ai-innovation-bcdb574963/" target="_blank" rel="noopener">WEF pressemeddelelse</a>
+        </p>
+      </div>
+    </div>
+
+    <div class="note-box">
+      <strong>Ærlig note om gaps:</strong> Living Value Stream (lag 1) har NIST-retning på lab-skala;
+      navngiven fabriks-ROI er knap. Fuld autonom «Lean-systemejer» er endnu ikke dokumenteret i kerncases.
+      Afvist i kernclaims: uverificerede gæsteblog-KPIer og anonyme leverandørcases.
+    </div>
+  </div>
+  <div class="slide-foot">LeanAI · okt 2026 · Ing
