@@ -1,0 +1,71 @@
+;
+    padding: 1.15rem 1.25rem;
+    box-shadow: var(--shadow);
+  }
+
+  .layer-n {
+    flex-shrink: 0;
+    width: 2.1rem;
+    height: 2.1rem;
+    border-radius: 8px;
+    background: var(--accent);
+    color: white;
+    font-weight: 800;
+    font-size: 0.95rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .layer p { font-size: 0.9rem; margin-top: 0.25rem; }
+  .layer .evidence {
+    font-size: 0.75rem;
+    color: var(--slate-light);
+    margin-top: 0.45rem;
+    font-style: italic;
+  }
+
+  .principle-box {
+    margin-top: 1.75rem;
+    background: var(--accent-soft);
+    border: 1px solid #99f6e4;
+    border-radius: var(--radius);
+    padding: 1.25rem 1.4rem;
+  }
+
+  .principle-box p { color: var(--slate); font-size: 0.95rem; }
+  .principle-box strong { color: var(--accent-dark); }
+
+  .note-box {
+    margin-top: 1.25rem;
+    background: var(--warn-bg);
+    border: 1px solid #fcd34d;
+    border-radius: var(--radius);
+    padding: 1rem 1.25rem;
+    font-size: 0.9rem;
+    color: var(--warn);
+  }
+
+  /* ── Cases ── */
+  .case-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    box-shadow: var(--shadow);
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .case-card header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem 1rem;
+  }
+
+  .case-date {
+    font-size: 0.75rem;
+    font-weight: 650;
+    color: var(--accen
