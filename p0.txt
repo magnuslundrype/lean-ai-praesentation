@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lean med AI som hovedperson — LeanAI | okt 2026</title>
+<meta name="author" content="Magnus Lund Rype">
+<meta name="description" content="Lean med AI som hovedperson — fra metode til system. Evidensbaseret præsentation 2024–2026.">
+<style>
+  :root {
+    --navy: #0f172a;
+    --slate: #1e293b;
+    --slate-mid: #334155;
+    --slate-light: #64748b;
+    --bg: #f8fafc;
+    --card: #ffffff;
+    --border: #e2e8f0;
+    --accent: #0d9488;
+    --accent-dark: #0f766e;
+    --accent-soft: #ccfbf1;
+    --warn: #b45309;
+    --warn-bg: #fffbeb;
+    --text: #0f172a;
+    --muted: #475569;
+    --white: #ffffff;
+    --radius: 12px;
+    --shadow: 0 4px 24px rgba(15, 23, 42, 0.08);
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; font-size: 16px; }
+
+  body {
+    font-family: "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+    color: var(--text);
+    background: var(--bg);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: var(--accent-dark); text-decoration: underline; text-underline-offset: 2px; }
+  a:hover { color: var(--accent); }
+
+  /* ── Layout ── */
+  .slide {
+    min-height: 100vh;
+    padding: 3.5rem 2rem 4.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    posi
