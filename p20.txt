@@ -1,0 +1,38 @@
+er er stadig tidlig og tynd.
+    </p>
+
+    <ul class="concl-points">
+      <li>
+        <strong>Byg på Lean, tilføj kontinuerlig intelligens.</strong>
+        Stabilitet først; derefter sensing og selektive aktører. AI amplificerer — den erstatter ikke ejerskabet af standarder og etik.
+      </li>
+      <li>
+        <strong>Tre lag er dokumenteret i navngivne fabrikker:</strong>
+        Kaizen Agents (Apollo), Democratised Jidoka (Toyota), Process Actors (CIMC). Living VSM er retning, ikke endnu ROI-bevist i offentlig kerncase.
+      </li>
+      <li>
+        <strong>Govern stramt.</strong>
+        Review/release, forklarbarhed og menneskelig frigivelse er ikke valgfrit — de er forudsætningen for at skalere actors.
+      </li>
+      <li>
+        <strong>Afvis svag evidens i kernclaims.</strong>
+        Ingen uverificerede gæsteblog-KPIer fra sundhedssektoren. Ingen anonyme leverandørcases som hovedargument.
+      </li>
+      <li>
+        <strong>Investeringsrealisme:</strong>
+        ~70% mennesker/proces, 20% data/tech, 10% algoritmer (BCG). Teknologien er den billigste del.
+      </li>
+    </ul>
+
+    <div class="principle-box" style="margin-top:1.75rem;">
+      <p>
+        <strong>Én sætning:</strong> Lean med AI som hovedperson betyder et system, der ser muda kontinuerligt,
+        foreslår Kaizen i minutter — og lader mennesker eje standarden.
+      </p>
+    </div>
+  </div>
+  <div class="slide-foot">LeanAI · okt 2026</div>
+</section>
+
+<!-- 7. KILDER -->
+<s

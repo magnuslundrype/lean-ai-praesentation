@@ -1,0 +1,35 @@
+frigivelse — CIMC-mønsteret. Governance før autonomi.</p>
+        </div>
+      </div>
+      <div class="phase">
+        <div class="phase-dot">4</div>
+        <div class="phase-body">
+          <h3>Skalér via platform + træning</h3>
+          <p>Toyota-mønster: 10 fabrikker, demokratiserede modeller, tusindvis af brugere. Platform før lokale siloer.</p>
+        </div>
+      </div>
+    </div>
+
+    <h3 style="margin-top:1.75rem;">Investeringsmix (BCG)</h3>
+    <div class="invest-bar" role="img" aria-label="70 procent mennesker og proces, 20 procent data og teknologi, 10 procent algoritmer">
+      <div class="inv-70">~70% mennesker / proces</div>
+      <div class="inv-20">20% data/tech</div>
+      <div class="inv-10">10% algo</div>
+    </div>
+    <div class="invest-legend">
+      <span class="l70">~70% mennesker &amp; proces</span>
+      <span class="l20">20% data &amp; teknologi</span>
+      <span class="l10">10% algoritmer</span>
+    </div>
+    <p class="stat-source" style="margin-top:0.5rem;">Kilde: BCG (13. jun 2024) — investeringsfordeling for digital/AI i produktion.</p>
+  </div>
+  <div class="slide-foot">LeanAI · okt 2026</div>
+</section>
+
+<!-- 6. KONKLUSION -->
+<section class="slide" id="konklusion">
+  <div class="slide-inner">
+    <span class="slide-label">06 · Konklusion</span>
+    <h2>AI er hovedperson i detektion, RCA, routing og demokratiserede modeller</h2>
+    <p class="lead">
+      Evidensen 2024–2026 er reel — men den fuldt autonome Lean-systemej

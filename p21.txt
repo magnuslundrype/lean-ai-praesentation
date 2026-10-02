@@ -1,0 +1,21 @@
+ection class="slide" id="kilder">
+  <div class="slide-inner">
+    <span class="slide-label">07 · Kilder (appendix)</span>
+    <h2>Offentlige kilder 2024–2026</h2>
+    <p class="lead">Alle nøgletal i denne præsentation stammer fra nedenstående. Klikbare links med dato.</p>
+
+    <ul class="source-list">
+      <li>
+        <span class="src-date">13. jun 2024</span>
+        BCG — Shaking Up the Factory Floor with Digital and AI
+        <a href="https://www.bcg.com/publications/2024/shaking-up-the-factory-floor-with-digital-and-ai" target="_blank" rel="noopener">https://www.bcg.com/publications/2024/shaking-up-the-factory-floor-with-digital-and-ai</a>
+      </li>
+      <li>
+        <span class="src-date">8. okt 2024</span>
+        World Economic Forum — Leading companies transforming manufacturing with AI (Siemens Erlangen, GE HealthCare Beijing)
+        <a href="https://www.weforum.org/press/2024/10/world-economic-forum-recognizes-leading-companies-transforming-global-manufacturing-with-ai-innovation-bcdb574963/" target="_blank" rel="noopener">https://www.weforum.org/press/2024/10/world-economic-forum-recognizes-leading-companies-transforming-global-manufacturing-with-ai-innovation-bcdb574963/</a>
+      </li>
+      <li>
+        <span class="src-date">9. dec 2024</span>
+        Google Cloud — Toyota AI Platform manufacturing efficiency
+        <a href="https://cloud.google.com/blog/topics/hybrid-cloud/toyota-ai-platform-manufacturing-efficiency" target="_blank" rel="no

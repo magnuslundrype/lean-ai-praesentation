@@ -1,0 +1,39 @@
+en opdigtede tal</div>
+</section>
+
+<!-- 5. ROADMAP -->
+<section class="slide" id="roadmap">
+  <div class="slide-inner">
+    <span class="slide-label">05 · Roadmap</span>
+    <h2>Fra stabil Lean til selektive process actors</h2>
+    <p class="lead">
+      Faseopdelt indføring. Undgå digital waste: stabiliser først (Diaz 2026).
+    </p>
+
+    <div class="phases">
+      <div class="phase">
+        <div class="phase-dot">0</div>
+        <div class="phase-body">
+          <h3>Stabiliser Lean</h3>
+          <p>5S, standardarbejde, synligt flow. Undgå at digitalisere kaos — det skaber digital waste (Diaz m.fl., jul 2026).</p>
+        </div>
+      </div>
+      <div class="phase">
+        <div class="phase-dot">1</div>
+        <div class="phase-body">
+          <h3>Saml kritiske data · vælg én muda</h3>
+          <p>Forén datakilder omkring den valgte spildtype — typisk defekter eller ventetid. Ét fokus, målbar baseline.</p>
+        </div>
+      </div>
+      <div class="phase">
+        <div class="phase-dot">2</div>
+        <div class="phase-body">
+          <h3>Detektion + forklarbar RCA-copilot</h3>
+          <p>Waste Sense + Kaizen Agents efter Apollo-mønsteret: streamende data, agentisk rodårsag, menneskelig beslutning.</p>
+        </div>
+      </div>
+      <div class="phase">
+        <div class="phase-dot">3</div>
+        <div class="phase-body">
+          <h3>Process actors med review/release</h3>
+          <p>Ophøj betroede udkast til aktører med obligatorisk 
