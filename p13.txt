@@ -1,0 +1,40 @@
+izen der kører kontinuerligt.</p>
+          <p class="evidence">Apollo Manufacturing Reasoner (Amazon Bedrock Agents), jun 2025.</p>
+        </div>
+      </div>
+      <div class="layer">
+        <div class="layer-n">4</div>
+        <div>
+          <h3>Process Actors</h3>
+          <p>AI udarbejder og udfører udvalgte planlægningstrin med menneskelig frigivelse.</p>
+          <p class="evidence">CIMC Tianda routing-agent, mar 2026.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="layer" style="margin-top:1rem;">
+      <div class="layer-n">5</div>
+      <div>
+        <h3>Democratised Jidoka</h3>
+        <p>Shop-floor bygger detektionsmodeller selv — Jidoka som platform, ikke specialistprojekt.</p>
+        <p class="evidence">Toyota AI Platform, dec 2024 (~1.200 brugere, 10 fabrikker).</p>
+      </div>
+    </div>
+
+    <div class="principle-box">
+      <p>
+        <strong>Driftsprincip:</strong> Stabiliser Lean → sensing → intelligent handling.
+        Mennesker ejer standarder, etik og endelig procesgodkendelse. AI amplificerer —
+        den erstatter ikke ejerskabet (Apollo-citat-retning). Diaz m.fl. (jul 2026):
+        at digitalisere ustabile processer skaber <strong>«digital waste»</strong>.
+      </p>
+    </div>
+  </div>
+  <div class="slide-foot">LeanAI · okt 2026</div>
+</section>
+
+<!-- 4. CASES -->
+<section class="slide" id="cases">
+  <div class="slide-inner">
+    <span class="slide-label">04 · Cases med evidens</span>
+    <h2>Tre kerncases — na

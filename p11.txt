@@ -1,0 +1,34 @@
+<div class="card accent-border">
+        <div class="num">89%</div>
+        <div class="num-label">planlægger AI i produktionen</div>
+        <p class="stat-source">BCG, 13. jun 2024</p>
+      </div>
+      <div class="card accent-border">
+        <div class="num">68%</div>
+        <div class="num-label">har påbegyndt AI-initiativer</div>
+        <p class="stat-source">BCG, 13. jun 2024</p>
+      </div>
+      <div class="card accent-border">
+        <div class="num">16%</div>
+        <div class="num-label">når deres AI-mål</div>
+        <p class="stat-source">BCG, 13. jun 2024</p>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:1.5rem;">
+      <h3>Hvad BCG konkluderer</h3>
+      <p style="margin-top:0.4rem;">
+        Traditionel lean falder til kort over for maskiner og styresystemer. Digitale og AI-kapaciteter er nødvendige —
+        men <strong>Lean forbliver fundamentet</strong>. Uden stabilitet og standardarbejde forstærker AI blot støj.
+      </p>
+      <p class="stat-source" style="margin-top:0.75rem;">
+        Kilde:
+        <a href="https://www.bcg.com/publications/2024/shaking-up-the-factory-floor-with-digital-and-ai" target="_blank" rel="noopener">
+          BCG — Shaking Up the Factory Floor with Digital and AI (13. jun 2024)
+        </a>
+      </p>
+    </div>
+
+    <div class="note-box">
+      <strong>Gap at være ærlig om:</strong> Offentlig evidens for fuldskala «AI-ejet Lean-system» er stadig tynd.
+      De stærkeste cases (Apollo,

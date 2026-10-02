@@ -1,0 +1,35 @@
+ id="forside">
+  <div class="slide-inner">
+    <span class="slide-label">LeanAI · Evidensbaseret præsentation</span>
+    <h1>Lean med AI som hovedperson — fra metode til system</h1>
+    <p class="lead">
+      Hvordan kunstig intelligens forandrer Lean fra papirbaseret metode til et levende, datadrevet system —
+      med evidens fra navngivne fabrikker 2024–2026.
+    </p>
+    <div class="badge-row">
+      <span class="badge">Evidens 2024–2026</span>
+      <span class="badge">≥3 navngivne cases</span>
+      <span class="badge">Offentlige kilder</span>
+      <span class="badge">Offline · PDF-klar</span>
+    </div>
+    <div class="forside-meta">
+      <div><strong>Magnus Lund Rype</strong>Forfatter / præsentør</div>
+      <div><strong>Oktober 2026</strong>LeanAI</div>
+      <div><strong>Struktur</strong>Forside · Problemstilling · Koncept · Cases · Roadmap · Konklusion · Kilder</div>
+    </div>
+  </div>
+  <div class="slide-foot">LeanAI · okt 2026</div>
+</section>
+
+<!-- 2. PROBLEMSTILLING -->
+<section class="slide" id="problemstilling">
+  <div class="slide-inner">
+    <span class="slide-label">02 · Problemstilling</span>
+    <h2>Lean-formålet står — driftsmiljøet har overhalet værktøjskassen</h2>
+    <p class="lead">
+      Affaldsbekæmpelse, flow og respekt for mennesker er stadig kerne. Men papir-VSM og ugentlig Kaizen
+      matcher ikke længere maskintæthed, datavolumen og den viden, der går på pension.
+    </p>
+
+    <div class="grid-3">
+      

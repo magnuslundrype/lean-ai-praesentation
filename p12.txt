@@ -1,0 +1,38 @@
+ Toyota, CIMC) viser specifikke lag — ikke et færdigt, autonomt Lean-OS.
+    </div>
+  </div>
+  <div class="slide-foot">LeanAI · okt 2026 · Ingen opdigtede tal</div>
+</section>
+
+<!-- 3. KONCEPT -->
+<section class="slide" id="koncept">
+  <div class="slide-inner">
+    <span class="slide-label">03 · Koncept</span>
+    <h2>AI ændrer Lean fra metode til system</h2>
+    <p class="lead">
+      Fem evidensforankrede lag. Princippet: Lean-stabilitet først, derefter sensing, derefter intelligent handling —
+      mennesker ejer standarder, etik og endelig proces; AI forstærker.
+    </p>
+
+    <div class="grid-2" style="margin-top:1.5rem;">
+      <div class="layer">
+        <div class="layer-n">1</div>
+        <div>
+          <h3>Living Value Stream</h3>
+          <p>Digital twin / maskindata-VSM, der opdateres løbende i stedet for engangs-papirkort.</p>
+          <p class="evidence">Retning: NIST, jun 2025 (lab-skala). Navngiven fabriks-ROI er stadig knap.</p>
+        </div>
+      </div>
+      <div class="layer">
+        <div class="layer-n">2</div>
+        <div>
+          <h3>Waste Sense</h3>
+          <p>Computer vision og sensor-AI til defekter og anomalier — muda synlig i realtid.</p>
+          <p class="evidence">GE HealthCare (WEF); Shahin 2024 peer-reviewed CV.</p>
+        </div>
+      </div>
+      <div class="layer">
+        <div class="layer-n">3</div>
+        <div>
+          <h3>Kaizen Agents</h3>
+          <p>Multi-agent rodårsagsanalyse på streaming IIoT — Ka
