@@ -1,0 +1,64 @@
+e);
+    letter-spacing: 0.04em;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .nav-brand span { color: var(--accent); }
+
+  .nav-links {
+    display: flex;
+    gap: 0.15rem;
+    flex-wrap: wrap;
+    list-style: none;
+    margin-left: auto;
+  }
+
+  .nav-links a {
+    color: rgba(255,255,255,0.7);
+    text-decoration: none;
+    font-size: 0.78rem;
+    font-weight: 550;
+    padding: 0.35rem 0.6rem;
+    border-radius: 6px;
+    transition: background 0.15s, color 0.15s;
+  }
+
+  .nav-links a:hover {
+    background: rgba(255,255,255,0.1);
+    color: var(--white);
+  }
+
+  /* ── Forside ── */
+  #forside {
+    background: linear-gradient(160deg, #0f172a 0%, #1e293b 55%, #0f766e 140%);
+    color: var(--white);
+    border-bottom: none;
+    padding-top: 5rem;
+  }
+
+  #forside h1 { color: var(--white); }
+  #forside .lead { color: rgba(255,255,255,0.78); }
+  #forside .slide-label { color: var(--accent); background: rgba(13,148,136,0.15); padding: 0.3rem 0.75rem; border-radius: 999px; }
+
+  .forside-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-top: 2.5rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(255,255,255,0.12);
+  }
+
+  .forside-meta div { font-size: 0.9rem; color: rgba(255,255,255,0.65); }
+  .forside-meta strong { color: var(--white); display: block; font-size: 0.95rem; margin-bottom: 0.15rem; }
+
+  .badge-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1.75rem;
+  }
+
+  .badge {
+    display: inline-bloc
