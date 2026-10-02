@@ -1,0 +1,20 @@
+opener">https://cloud.google.com/blog/topics/hybrid-cloud/toyota-ai-platform-manufacturing-efficiency</a>
+      </li>
+      <li>
+        <span class="src-date">feb 2025</span>
+        Siemens Erlangen Causal AI — vendor case study (Xplain Data)
+        <a href="https://xplain-data.de/wp-content/uploads/2025/02/Siemens_Erlangen_CaseStudy_Final_ENGL.pdf" target="_blank" rel="noopener">https://xplain-data.de/wp-content/uploads/2025/02/Siemens_Erlangen_CaseStudy_Final_ENGL.pdf</a>
+      </li>
+      <li>
+        <span class="src-date">jun 2025</span>
+        NIST — Automation of Value Stream Mapping (case study / lab-retning)
+        <a href="https://www.nist.gov/publications/automation-value-stream-mapping-case-study-enhancing-lean-manufacturing-tools-through" target="_blank" rel="noopener">https://www.nist.gov/publications/automation-value-stream-mapping-case-study-enhancing-lean-manufacturing-tools-through</a>
+      </li>
+      <li>
+        <span class="src-date">16. jun 2025</span>
+        AWS — Apollo Tyres Agentic Manufacturing Reasoner
+        <a href="https://aws.amazon.com/blogs/machine-learning/how-apollo-tyres-is-unlocking-machine-insights-using-agentic-ai-powered-manufacturing-reasoner/" target="_blank" rel="noopener">https://aws.amazon.com/blogs/machine-learning/how-apollo-tyres-is-unlocking-machine-insights-using-agentic-ai-powered-manufacturing-reasoner/</a>
+      </li>
+      <li>
+        <span class="src-date">5. aug 2025</span>
+        AWS — Toyota Quality

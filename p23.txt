@@ -1,0 +1,25 @@
+ Insights (manufacturing excellence)
+        <a href="https://aws.amazon.com/blogs/industries/how-toyota-powers-manufacturing-excellence-and-data-driven-quality-insights/" target="_blank" rel="noopener">https://aws.amazon.com/blogs/industries/how-toyota-powers-manufacturing-excellence-and-data-driven-quality-insights/</a>
+      </li>
+      <li>
+        <span class="src-date">mar 2026</span>
+        HKU CAMO — CIMC Tianda AI routing agent case (PDF)
+        <a href="https://camo.hku.hk/wp-content/uploads/2026/03/2026-03-30_CIMC_Edited-1.pdf" target="_blank" rel="noopener">https://camo.hku.hk/wp-content/uploads/2026/03/2026-03-30_CIMC_Edited-1.pdf</a>
+      </li>
+      <li>
+        <span class="src-date">3. jul 2026</span>
+        Diaz m.fl. — Scientific Reports (digital waste ved ustabile processer)
+        <a href="https://www.nature.com/articles/s41598-026-59190-7" target="_blank" rel="noopener">https://www.nature.com/articles/s41598-026-59190-7</a>
+      </li>
+    </ul>
+  </div>
+  <div class="slide-foot">LeanAI · okt 2026</div>
+</section>
+
+<footer class="site-footer">
+  <strong>Ingen opdigtede tal — alle nøgletal fra citerede offentlige kilder 2024–2026</strong><br>
+  LeanAI · Magnus Lund Rype · oktober 2026 · Måltal/projektioner er markeret eksplicit
+</footer>
+
+</body>
+</html>
